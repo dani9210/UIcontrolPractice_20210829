@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         toastBtn.setOnClickListener {
 
-            //aptpwlrk dlqfurehls sodyddmf qkedkdhwk. => rldjrgoenjdi => qustnfmf aksemfdjtj wjwkdgoenwk
+            //aptpwlrk dlqfurehls sodyd(text thrtjddp wjrglsrkqt) dmf qkedkdhwk. => rldjrgoenjdi => qustnfmf aksemfdjtj wjwkdgoenwk
             val inputMessage = messageEdt.text.toString()
 
 
